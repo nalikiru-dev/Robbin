@@ -10,7 +10,7 @@ import ThemeToggle from "@/components/theme-toggle"
 
 export const metadata: Metadata = {
   title: "Robbin - Software Engineer Portfolio",
-  description: "Portfolio of Robbin, a talented software engineer with 5+ years of experience",
+  description: "Portfolio of Robbin, a talented software engineer with over 5 years of experience",
 }
 
 export default function Home() {
