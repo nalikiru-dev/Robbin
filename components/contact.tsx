@@ -55,19 +55,19 @@ export default function Contact() {
     {
       icon: <Mail className="h-6 w-6 text-primary" />,
       title: "Email",
-      value: "contact@example.com",
-      link: "mailto:contact@example.com",
+      value: "nalikiru@gmail.com",
+      link: "mailto:nalikiru@gmail.com",
     },
     {
       icon: <Phone className="h-6 w-6 text-primary" />,
       title: "Phone",
-      value: "+1 (555) 123-4567",
-      link: "tel:+15551234567",
+      value: "+251 922143472",
+      link: "tel:+251922143472",
     },
     {
       icon: <MapPin className="h-6 w-6 text-primary" />,
       title: "Location",
-      value: "San Francisco, CA",
+      value: "Bahirdar, Et",
       link: "#",
     },
   ]
